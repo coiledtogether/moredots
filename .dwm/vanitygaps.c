@@ -347,13 +347,6 @@ getfacts(Monitor *m, int msize, int ssize, float *mf, float *sf, int *mr, int *s
 }
 
 
-
-/***
-
- * Layouts
-
-
-
 /*
 
  * Default tile layout + gaps
