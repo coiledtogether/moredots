@@ -4,8 +4,9 @@
 ~/.scripts/setupDisplay.sh &
 
 picom --experimental-backends &
-wpg -s lavender.png &&
+#wpg -s lavender.png &&
 
+feh --bg-scale ~/.wallpapers/shintaro/shintaroCenterPurp.png
 #kitty --hold -e neofetch &
 wmname LG3D &
 slstatus &
